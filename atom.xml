@@ -2,9 +2,9 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">Hugo 主题 MemE</title>
-    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-06-19T11:07:51&#43;08:00</updated>
+    <title type="text">兰暮蝉的blog</title>
+    <subtitle type="html">小舟从此逝，江海寄余生</subtitle>
+    <updated>2022-06-19T11:53:33&#43;08:00</updated>
     <id>https://lazdbk.github.io/</id>
     <link rel="alternate" type="text/html" href="https://lazdbk.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lazdbk.github.io/atom.xml" />
@@ -24,7 +24,7 @@
             <published>2022-06-19T10:45:19&#43;08:00</published>
             <author>
                     <name>兰暮蝉</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://lazdbk.github.io/</uri>
                     <email>lanmuchan123@look.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">记录生活</summary>
