@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">兰暮蝉的blog</title>
     <subtitle type="html">小舟从此逝，江海寄余生</subtitle>
-    <updated>2022-06-20T15:12:43&#43;08:00</updated>
+    <updated>2022-06-20T22:07:06&#43;08:00</updated>
     <id>https://lazdbk.github.io/</id>
     <link rel="alternate" type="text/html" href="https://lazdbk.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://lazdbk.github.io/atom.xml" />
@@ -16,6 +16,35 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+        <entry>
+            <title type="text">哎</title>
+            <link rel="alternate" type="text/html" href="https://lazdbk.github.io/posts/blog2/" />
+            <id>https://lazdbk.github.io/posts/blog2/</id>
+            <updated>2022-06-20T22:06:42&#43;08:00</updated>
+            <published>2022-06-20T22:04:09&#43;08:00</published>
+            <author>
+                    <name>兰暮蝉</name>
+                    <uri>https://lazdbk.github.io/</uri>
+                    <email>lanmuchan123@look.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天心情很糟糕😑 哎，，，</summary>
+            
+                <content type="html">&lt;p&gt;今天心情很糟糕😑
+哎，，，&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Meme主题的使用</title>
             <link rel="alternate" type="text/html" href="https://lazdbk.github.io/posts/meme%E4%B8%BB%E9%A2%98%E7%9A%84%E4%BD%BF%E7%94%A8/" />
